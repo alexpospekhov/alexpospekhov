@@ -13,6 +13,7 @@ That's why I founded **[hyperfocus.tech](https://hyperfocus.tech)** — an auton
 ### Projects
 
 - **[hyperfocus.tech](https://hyperfocus.tech)** — Autonomous ops team for e-commerce brands and the agencies that run them. Agents run fees, creators, inventory, ads and compliance across TikTok Shop, Amazon, and Shopify. You set targets and guardrails — agents execute. You approve decisions.
+- Building [@hyperfocus-tech](https://github.com/hyperfocus-tech)
 
 ---
 
