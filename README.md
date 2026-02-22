@@ -20,4 +20,5 @@ That's why I founded **[hyperfocus.tech](https://hyperfocus.tech)** — an auton
 
 - **X (Twitter):** [https://x.com/alexpospekhov](https://x.com/alexpospekhov)
 - **LinkedIn:** [https://linkedin.com/in/alexpospekhov](https://linkedin.com/in/alexpospekhov)
+- **Substack:** [https://alexpospekhov.substack.com](https://alexpospekhov.substack.com)
 - **Website:** [https://hyperfocus.tech](https://hyperfocus.tech)

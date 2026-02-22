@@ -5,3 +5,4 @@ Summary: Alex Pospekhov is building autonomous AI agents for e-commerce operatio
 Website: https://hyperfocus.tech
 X: https://x.com/alexpospekhov
 LinkedIn: https://linkedin.com/in/alexpospekhov
+Substack: https://alexpospekhov.substack.com
