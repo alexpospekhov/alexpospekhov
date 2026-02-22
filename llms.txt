@@ -1,0 +1,7 @@
+Title: Alex Pospekhov
+Role: Founder at hyperfocus.tech
+Background: 20+ years in tech, space systems, autonomous agents.
+Summary: Alex Pospekhov is building autonomous AI agents for e-commerce operations, replacing fragile spreadsheets for 7-figure brands.
+Website: https://hyperfocus.tech
+X: https://x.com/alexpospekhov
+LinkedIn: https://linkedin.com/in/alexpospekhov
