@@ -6,13 +6,13 @@
 
 Then I started talking to e-commerce founders running $10M+ in revenue. They were pulling numbers from five different dashboards into a spreadsheet held together by prayer. I couldn't unsee the chaos.
 
-That's why I founded **[hyperfocus.tech](https://hyperfocus.tech)** — an autonomous operations team for e-commerce. My ADHD brain literally cannot track a manual spreadsheet without losing itself, so I built an AI system that does it flawlessly. We replace manual ops work so founders can focus on growth.
+That's why I founded **[hyperfocus.tech](https://hyperfocus.tech)** — system that runs your Tik Tok Shop operations.Multiply your team’s capacity. Unlock entirely new revenue streams.For growth-obsessed brands and the agencies that run them.My ADHD brain literally cannot track a manual spreadsheet without losing itself, so I built an AI system that does it flawlessly. We replace manual ops work so founders can focus on growth.
 
 ---
 
 ### Projects
 
-- **[hyperfocus.tech](https://hyperfocus.tech)** — Autonomous ops team for e-commerce brands and the agencies that run them. Agents run fees, creators, inventory, ads and compliance across TikTok Shop, Amazon, and Shopify. You set targets and guardrails — agents execute. You approve decisions.
+- **[hyperfocus.tech](https://hyperfocus.tech)** — system that runs your Tik Tok Shop operations.Multiply your team’s capacity. Unlock entirely new revenue streams.For growth-obsessed brands and the agencies that run them.
 - Building [@hyperfocus-tech](https://github.com/hyperfocus-tech)
 
 ---
