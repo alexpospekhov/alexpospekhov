@@ -36,3 +36,4 @@ Founder at [hyperfocus.tech](https://hyperfocus.tech) | 20+ years in tech, 5+ in
 - **Medium:** [https://medium.com/@alexpospekhov](https://medium.com/@alexpospekhov)
 - **Crunchbase:** [https://www.crunchbase.com/person/alex-pospekhov](https://www.crunchbase.com/person/alex-pospekhov)
 - **Stack Overflow:** [https://stackoverflow.com/users/33190208/alex-pospekhov](https://stackoverflow.com/users/33190208/alex-pospekhov)
+- **GitLab:** [https://gitlab.com/alexpospekhov](https://gitlab.com/alexpospekhov)
