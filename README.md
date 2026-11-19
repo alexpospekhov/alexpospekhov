@@ -1,7 +1,7 @@
 # Alex Pospekhov
 
 Data fusion. Sensor fusion. Satellite, ground, archive — one picture.  
-Founder, [hyperfocus.tech](https://hyperfocus.tech) — First 360° video intelligence platform.  
+Founder, [hyperfocus.tech](https://hyperfocus.tech) — Creative Super Intelligence  
 20+ years in tech, 5+ in space systems.  
 Exited founder.  
 **Engineer · Innovator · Entrepreneur**
