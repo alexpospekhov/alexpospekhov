@@ -1,7 +1,7 @@
 # Alex Pospekhov
 
 Data fusion. Sensor fusion. Satellite, ground, archive — one picture.  
-Founder, [hyperfocus.tech](https://hyperfocus.tech) — Creative Super Intelligence  
+Founder, [hyperfocus.tech](https://hyperfocus.tech) — Creative Superintelligence  
 20+ years in tech, 5+ in space systems.  
 Exited founder.  
 **Engineer · Innovator · Entrepreneur**
@@ -20,7 +20,7 @@ Founder at [hyperfocus.tech](https://hyperfocus.tech) | 20+ years in tech, 5+ in
 
 ### Projects
 
-- **[hyperfocus.tech](https://hyperfocus.tech)** — First 360° video intelligence platform: AI-powered short form video analysis for brands in social commerce
+- **[hyperfocus.tech](https://hyperfocus.tech)** — Creative Superintelligence platform for video ad teams: Research, Content Plan & Creative Ops
 - **[SwiftVectorKit](https://github.com/alexpospekhov/SwiftVectorKit)** — On-device semantic code search and vector indexing for Swift on Apple Silicon
 - **[searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo)** — Open-source AEO / GEO / SEO CLI for AI-native founders
 - **[claude-memory-gcp](https://github.com/alexpospekhov/claude-memory-gcp)** — Persistent memory for Claude Code with PostgreSQL + Vertex AI
