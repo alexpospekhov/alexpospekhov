@@ -20,7 +20,7 @@ Founder at [hyperfocus.tech](https://hyperfocus.tech) | 20+ years in tech, 5+ in
 
 ### Projects
 
-- **[hyperfocus.tech](https://hyperfocus.tech)** — Creative Superintelligence platform for video ad teams: Research, Content Plan & Creative Ops
+- **[hyperfocus.tech](https://hyperfocus.tech)** — Creative Superintelligence. Your video ad team owns the taste. Hyperfocus runs the creative loop.
 - **[SwiftVectorKit](https://github.com/alexpospekhov/SwiftVectorKit)** — On-device semantic code search and vector indexing for Swift on Apple Silicon
 - **[searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo)** — Open-source AEO / GEO / SEO CLI for AI-native founders
 - **[claude-memory-gcp](https://github.com/alexpospekhov/claude-memory-gcp)** — Persistent memory for Claude Code with PostgreSQL + Vertex AI
